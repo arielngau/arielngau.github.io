@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://arielngau.xyz</id>
+    <id>https://arielngau.xyz</id>
     <title>arielngau&apos;s blog</title>
-    <updated>2019-09-13T14:57:38.446Z</updated>
+    <updated>2019-09-13T14:58:43.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://arielngau.xyz"/>
-    <link rel="self" href="http://arielngau.xyz/atom.xml"/>
+    <link rel="alternate" href="https://arielngau.xyz"/>
+    <link rel="self" href="https://arielngau.xyz/atom.xml"/>
     <subtitle>伪文艺，假学术，真宅女。arielngau 写字的地方。</subtitle>
-    <logo>http://arielngau.xyz/images/avatar.png</logo>
-    <icon>http://arielngau.xyz/favicon.ico</icon>
+    <logo>https://arielngau.xyz/images/avatar.png</logo>
+    <icon>https://arielngau.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, arielngau&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[9012 年为什么还在用黑莓]]></title>
-        <id>http://arielngau.xyz/post/9012-nian-wei-shi-me-huan-zai-yong-hei-mei</id>
-        <link href="http://arielngau.xyz/post/9012-nian-wei-shi-me-huan-zai-yong-hei-mei">
+        <id>https://arielngau.xyz/post/9012-nian-wei-shi-me-huan-zai-yong-hei-mei</id>
+        <link href="https://arielngau.xyz/post/9012-nian-wei-shi-me-huan-zai-yong-hei-mei">
         </link>
         <updated>2019-09-13T14:51:29.000Z</updated>
         <summary type="html"><![CDATA[<p>缘起<br>
