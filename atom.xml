@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arielngau.xyz</id>
     <title>arielngau&apos;s blog</title>
-    <updated>2019-09-13T14:34:53.233Z</updated>
+    <updated>2019-09-13T14:36:22.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arielngau.xyz"/>
     <link rel="self" href="https://arielngau.xyz/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://arielngau.xyz/images/avatar.png</logo>
     <icon>https://arielngau.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, arielngau&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://arielngau.xyz/post/about</id>
+        <link href="https://arielngau.xyz/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>这是关于的页面，可以在这里向世界介绍你！</p>
+]]></content>
+    </entry>
 </feed>
