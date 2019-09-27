@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arielngau.xyz</id>
     <title>arielngau&apos;s blog</title>
-    <updated>2019-09-27T13:19:32.891Z</updated>
+    <updated>2019-09-27T13:33:48.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arielngau.xyz"/>
     <link rel="self" href="https://arielngau.xyz/atom.xml"/>
@@ -12,18 +12,17 @@
     <rights>All rights reserved 2019, arielngau&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[9012 年为什么还在用黑莓]]></title>
-        <id>https://arielngau.xyz/post/9012-nian-wei-shi-me-huan-zai-yong-hei-mei</id>
-        <link href="https://arielngau.xyz/post/9012-nian-wei-shi-me-huan-zai-yong-hei-mei">
+        <id>https://arielngau.xyz/post/9012-blackberry</id>
+        <link href="https://arielngau.xyz/post/9012-blackberry">
         </link>
         <updated>2019-09-13T14:51:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>缘起<br>
-经过</p>
+        <summary type="html"><![CDATA[<p>首先，原因其实是……</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>缘起<br>
-经过</p>
+        <content type="html"><![CDATA[<p>首先，原因其实是……</p>
 <!-- more -->
-<p>开始<br>
-结论</p>
+<p>中国移动的4G套餐的价格太贵了。<br>
+我之前用的是中国移动的冰激凌套餐98元档，每月40G通用流量，1000 分钟通话时间，500M宽带以及高清电视盒业务。<br>
+但看套餐，貌似很合适的样子。但是 40G的通用流量不能够结转，也就是说如果当月使用不完，下个月也是不能够继续使用的，其次，1000分钟的通话时间对于我来说过于过剩了。另外，我们家本来也就有宽带，所以500M的宽带以及电视盒业务我根本用不上。</p>
 ]]></content>
     </entry>
 </feed>
