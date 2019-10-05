@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arielngau.xyz</id>
     <title>arielngau&apos;s blog</title>
-    <updated>2019-10-05T11:52:30.027Z</updated>
+    <updated>2019-10-05T11:56:05.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arielngau.xyz"/>
     <link rel="self" href="https://arielngau.xyz/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://arielngau.xyz/images/avatar.png</logo>
     <icon>https://arielngau.xyz/favicon.ico</icon>
     <rights>All rights reserved 2019, arielngau&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[数字移民]]></title>
+        <id>https://arielngau.xyz/post/shu-zi-yi-min</id>
+        <link href="https://arielngau.xyz/post/shu-zi-yi-min">
+        </link>
+        <updated>2019-10-05T11:53:45.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9012 年为什么还在用黑莓]]></title>
         <id>https://arielngau.xyz/post/9012-blackberry</id>
